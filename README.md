@@ -1,8 +1,11 @@
 # <div align="center">**JUSTICE THROUGH CODE**</div>
 
 ###### PYTHON BOOTCAMP FALL 2021 COHORT
+<br>
+
 #### **FIRST NAME: La'Tonia Mertica**
 ###### note_1: pronounced *luh tone yuh merr treece*
+
 ---
 ###### <a href="https://drive.google.com/file/d/1NJNd3XmIWNVadYwVB_OCQQDDXzNVvn1X/view?usp=sharing" target="_blank"> visit pdf technical question guide by La'Tonia Mertica</a>
 <br>
