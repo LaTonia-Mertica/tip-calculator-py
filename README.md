@@ -47,3 +47,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;them for using the app.<br>
 <br>
 - [ ] Invite user(s) to use the app as needed - closing message aka welcome message.<br>
+
+<br />
+<br />
+
+<p align="center"><img src="images/latoniamertica-defiant.jpeg" width="100%" title="Selfie by La'Tonia Mertica" /></p>
