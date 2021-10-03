@@ -17,10 +17,10 @@
 <br>
 - [ ] Give option to calculate with 10% sales tax or enter different sales tax percentage.<br>
 &emsp;&emsp;&emsp;- [ ] When user opts to apply 10% sales tax, display total<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;cost as result of food cost plus 10% sales tax.<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;cost as result of food cost <i>plus</i> 10% sales tax.<br>
 &emsp;&emsp;&emsp;- [ ] When user opts to apply specific/non-10% sales tax, accept user input for<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;sales tax to be added to cost of food, display total cost as result of food cost<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;plus user-specified sales tax.<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;<i>plus</i> user-specified sales tax.<br>
 <br>
 - [ ] Accept user input for number of people splitting the cost of total bill.<br>
 <br>
