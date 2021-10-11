@@ -57,7 +57,17 @@
 - [x] Invite repeat use - reset to welcome after completion of any full flow,<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [x] include prompt for proper input when non-y/n input;<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- [x] reset after two tries. ..<br>
-<br />
+<br>
+
+## **NEXT STEPS**
+- auto conversion for 1-, 2-, and 3-digit percent inputs
+- add to y/n flows tip option at double the cost of food
+- optimize for accurate numeric outputs
+- accept user input:
+    - for person(s) name splitting cost
+    - and percent tip paying by person
+- re-use data option for later calculations
+
 <br />
 
 <p align="center"><img src="images/latoniamertica-defiant.jpeg" width="100%" title="Selfie by La'Tonia Mertica" /></p>
