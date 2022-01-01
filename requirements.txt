@@ -7,7 +7,6 @@ Pillow==8.4.0
 playsound==1.3.0
 pynput==1.7.3
 pyobjc==8.1
-pyobjc-core==8.1
 pyobjc-framework-Accessibility==8.1
 pyobjc-framework-Accounts==8.1
 pyobjc-framework-AddressBook==8.1
@@ -29,7 +28,7 @@ pyobjc-framework-CallKit==8.1
 pyobjc-framework-CFNetwork==8.1
 pyobjc-framework-ClassKit==8.1
 pyobjc-framework-CloudKit==8.1
-pyobjc-framework-Cocoa==8.1
+pyobjc-framework-Cocoa==8.0b1
 pyobjc-framework-Collaboration==8.1
 pyobjc-framework-ColorSync==8.1
 pyobjc-framework-Contacts==8.1
@@ -108,7 +107,7 @@ pyobjc-framework-Photos==8.1
 pyobjc-framework-PhotosUI==8.1
 pyobjc-framework-PreferencePanes==8.1
 pyobjc-framework-PushKit==8.1
-pyobjc-framework-Quartz==8.1
+pyobjc-framework-Quartz==8.0b1
 pyobjc-framework-QuickLookThumbnailing==8.1
 pyobjc-framework-ReplayKit==8.1
 pyobjc-framework-SafariServices==8.1
