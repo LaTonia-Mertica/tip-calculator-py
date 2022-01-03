@@ -7,7 +7,7 @@ Pillow==8.4.0
 playsound==1.3.0
 pynput==1.7.3
 pyobjc==8.1
-pyobjc-framework-Accessibility==8.1
+pyobjc-framework-Accessibility
 pyobjc-framework-Accounts==8.1
 pyobjc-framework-AddressBook==8.1
 pyobjc-framework-AdServices==8.1
