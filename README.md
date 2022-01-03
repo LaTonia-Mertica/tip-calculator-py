@@ -8,6 +8,7 @@
 
 ---
 ###### <a href="https://drive.google.com/file/d/1NJNd3XmIWNVadYwVB_OCQQDDXzNVvn1X/view?usp=sharing" target="_blank"> visit pdf technical question guide by La'Tonia Mertica</a>
+###### command: ```heroku run python tip_calculator.py``` to access deploy in terminal [click here to view successful deploy in terminal](images/tip-calc-deploy-run.png)
 <br>
 
 ## **TIP CALCULATOR**
@@ -67,6 +68,8 @@
     - for person(s) name splitting cost
     - and percent tip paying by person
 - re-use data option for later calculations
+
+- automate run deploy command **or** debug further to establish *live demo* option for users and visitors to the script
 
 <br />
 
